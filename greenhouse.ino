@@ -1,3 +1,6 @@
+// Code Author: Norokh Nikita
+// 08.07.2023
+
 #include <GyverButton.h>
 #include <EEPROM.h>
 #include <DHT.h>
