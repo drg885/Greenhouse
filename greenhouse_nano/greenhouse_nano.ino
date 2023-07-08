@@ -1,3 +1,6 @@
+// Code Author: Norokh Nikita
+// 08.07.2023
+
 #include <OneWire.h>
 #include <DallasTemperature.h>
 #include <EEPROM.h>
